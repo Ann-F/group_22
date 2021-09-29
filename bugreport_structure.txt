@@ -5,6 +5,8 @@ Bug report artifacts
 4.Steps to reproduce
 5.Expected result
 6.Actual result
-7.Attachments
+7.Priority
+8.Severity
+9.Attachments
 
 			
