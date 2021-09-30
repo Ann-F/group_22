@@ -1,0 +1,7 @@
+Checklist
+1.Built
+2.Environment 
+3.Test date
+4.Test type
+5.Checking
+6.Result
