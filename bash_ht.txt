@@ -1,0 +1,12 @@
+   Написать скрипт который выполнит автоматически пункты
+
+1.Зайти в папку
+2. Создать 3 папки
+3. Зайти в любоую папку
+4.Создать 5 файлов (3 txt, 2 json)
+5. Создать 3 папки
+6. Вывести список содержимого папки
+7. переместить любые 2 файла, которые вы создали, в любую другую папку.
+
+#! /bin/bash
+cd group_22; mkdir 5_name 7_name 8_name; cd 5_name; touch file_1.txt file_2.txt file_3.txt file_4.json file_5.json; mkdir course cours cour; ls -la; mv file_1.txt file_2.txt  ../7_name
